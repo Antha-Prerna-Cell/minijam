@@ -1,0 +1,22 @@
+.msg p{
+	border: 3px solid black;
+	margin-left:  40%;
+	margin-top: 10%;
+	margin-right: 40%;
+	color:green;
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+	font-weight:  bold;
+}
+.compile{
+	margin-top: 110px;
+	border: 2px solid black;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding : 10px;
+}
+button{
+	
+	margin-top: 20%;
+}

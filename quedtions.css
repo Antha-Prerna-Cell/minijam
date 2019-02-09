@@ -1,0 +1,44 @@
+header{width:100%;
+	border-top: 5px solid black;
+	background:black;
+	padding-left:20px;
+	margin-top: 0;
+	padding-top: 0;
+}
+.contain{
+	padding-left: 5%;
+	width:60%;
+	line-height: 1.6em;
+	
+}
+.headin{
+	margin-top: 40px;
+
+}
+.examples{
+	float: left;
+}
+.for{
+	color:red;
+	padding-left: 50%;
+	margin-top: 15%;
+	background-color: grey;
+}
+.alert{
+	padding:10px;
+	background-color:red;
+	color: white;
+	margin-top: 5px; 
+}
+.loggedout button{
+	position: relative;		
+	margin-left: 90%;
+	background-color: darkblue;
+  color: white;
+  padding: 5px ;
+  border: 1px darkblue solid;
+  cursor: pointer;
+  width: 80px;
+
+
+} 

@@ -1,0 +1,63 @@
+header{width:100%;
+	border-top: 5px solid black;
+	background:black;
+	padding-left:20px;
+	margin-top: 0;
+	padding-top: 0;
+}
+.contain{
+	padding-left: 5%;
+	width:60%;
+	line-height: 1.6em;
+	
+}
+.headin{
+	margin-top: 40px;
+
+}
+.examples{
+	
+}
+.for{
+	border-top:  2px solid black;
+	padding:30px;
+	color:black;
+	background-color: brown;
+	line-height: 1.6em;
+	text-align: center;
+	padding:  5px;
+	margin: 0;	
+	color: white;
+	width:100%;
+}
+.for button{
+	border: 1px solid blue;
+	background-color: darkblue;
+	color:white;
+	padding: 5px;
+	font-weight: 20px;
+	font-size: 18px;
+border-radius: 5px;
+cursor: pointer;
+
+}
+.alert{
+	padding:10px;
+	background-color:red;
+	color: white;
+	margin-top: 5px; 
+}
+.loggedout button{
+
+	position: relative;		
+	margin-left: 90%;
+	background-color: darkblue;
+  color: white;
+  padding: 5px ;
+  border: 1px darkblue solid;
+  cursor: pointer;
+  width: 80px;
+
+
+} 
+
